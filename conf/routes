@@ -1,0 +1,2 @@
+
+POST /log/:user/:event/:data controllers.LogController.logEvent(user, event, data)
